@@ -6,35 +6,33 @@ description : "a wrong poetry"
 ---
 
 Hating yourself
-Does more hurting than good
+Does more harm than good.
 
-Don't listen to the monkey
-Inside your head
-Because he is trying to
-Destroy you
+Don't heed the monkey
+Inside your head,
+For it seeks to
+Destroy you.
 
-Lots of people
-Love you
+Many people
+Love you.
 
-Listen to them
-Love them
-Be gratefull that
-Despite your horrible
-Real face
-They still stick around
+Listen to them,
+Love them,
+Be grateful that
+Despite your perceived flaws,
+They remain by your side.
 
 You hate yourself because
-Your heart is too fragile
-Because you see too much things
-And because
-You don't have
-The strength to follow-up
+Your heart is too fragile,
+You perceive too much,
+And lack the strength
+To follow through.
 
-Be gratefull to them
-They make you beautifull
-You are your loved ones
-Even if you do not talk to them
+Be grateful to them;
+They bring out your beauty.
+You are defined by your loved ones,
+Even in silence.
 
-Love them
-Stay alive
+Love them,
+Stay alive.
 
