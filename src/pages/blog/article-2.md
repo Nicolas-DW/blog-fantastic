@@ -5,19 +5,21 @@ layout: ../../layouts/PostLayout.astro
 description : "a wrong poetry"
 ---
 
-Sur le lac tranquille, l'aube se lève,  
-Des couleurs douces se mêlent et dansent,  
-Reflets dans l'eau, miroir du ciel,  
-Un tableau vivant, naturellement belle.
+From my birth until now,  
+I can't recall  
+A single moment  
+Without suffering.  
 
-Les oiseaux chantent, saluant le jour,  
-Leurs mélodies se fondent dans l'air frais,  
-Chaque vague est une note de musique,  
-Composant une symphonie aquatique.
+I don't belong here,  
+I am not from this place.  
 
-Dans cette sérénité, le temps s'arrête,  
-Laissant place à la rêverie et la paix,  
-Reflets dans l'eau, mirages du temps,  
-Capturant l'essence de l'instant.
+I am distasteful and foolish,  
+Dreaming of stars in the sky,  
+Yet I'm already beneath the ground.  
+
+Be cautious,  
+If you encounter me on the bridge,  
+For I have already  
+Passed away.  
 
 
