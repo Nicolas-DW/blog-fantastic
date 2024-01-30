@@ -1,0 +1,35 @@
+---
+// Props seront passés automatiquement
+const { frontmatter } = Astro.props;
+---
+
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>{frontmatter.title}</title>
+    <meta name="description" content={frontmatter.description ?? "Article de blog"} />
+    <link rel="stylesheet" href="/styles.css" />
+    <!-- scale with screens -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <header>
+      <!-- Votre en-tête ici -->
+      <a href="/">Go to the list of wrong poetries</a>
+    </header>
+    <main>
+      <article>
+        <h1>{frontmatter.title}</h1>
+        <div class="markdown-content">
+          <slot class="textPoetry" />
+        </div>
+      </article>
+    </main>
+    <footer>
+      <!-- Votre pied de page ici -->
+      © 2024 NK
+    </footer>
+  </body>
+</html>
+
+<script></script>

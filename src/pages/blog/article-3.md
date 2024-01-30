@@ -1,10 +1,9 @@
 ---
-title: "Chants du Printemps"
-date: "2024-03-15"
-author: "Écrivain Imaginaire"
+title: "Do not hate yourself"
+author: "NK"
+layout: ../../layouts/PostLayout.astro
+description : "a wrong poetry"
 ---
-
-# Chants du Printemps
 
 Le printemps arrive, doux et léger,  
 Avec des fleurs pour couronner la terre,  
@@ -21,6 +20,4 @@ Nous rappelle le cycle de la vie,
 Dans les chants du printemps, il y a une promesse,  
 Que tout renaît, tout revit.
 
----
 
-*Do not take this too seriously*

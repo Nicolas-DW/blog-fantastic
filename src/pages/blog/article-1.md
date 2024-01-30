@@ -1,26 +1,29 @@
 ---
-title: "Poésie du Crépuscule"
-date: "2024-01-30"
-author: "Auteur Imaginaire"
+title: "A leaf on the road"
+author: "NK"
+layout: ../../layouts/PostLayout.astro
+description : "a wrong poetry"
 ---
 
-# Poésie du Crépuscule
+When I was walking,  
+I saw a leaf.  
 
-Dans le silence du soir qui tombe,  
-La brise caresse les feuilles,  
-Les étoiles commencent leur danse,  
-Tandis que la lune sourit.
+It was lying on the ground.  
+I thought, "It's just a leaf,"  
+And I tried to pass by.  
 
-Chaque ombre raconte une histoire,  
-Chaque souffle porte un secret,  
-Dans le crépuscule, la nature  
-Chuchote ses mots les plus doux.
+It was then, in that moment,  
+I knew that  
+For every step thereafter,  
+This leaf would be with me.  
 
-La nuit enveloppe le monde,  
-Dans un voile de mystère et de paix,  
-Et dans ce moment suspendu,  
-La poésie s'écrit toute seule.
+This leaf will never  
+Leave me alone,  
+For the rest of my life.  
 
----
+This leaf was indeed  
+With me  
+From my birth  
+To my death.  
 
-*Do not take this too seriously*
+

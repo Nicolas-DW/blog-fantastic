@@ -1,10 +1,9 @@
 ---
-title: "Reflets dans l'Eau"
-date: "2024-02-10"
-author: "Poète Imaginé"
+title: "Why living is an endless suffering"
+author: "NK"
+layout: ../../layouts/PostLayout.astro
+description : "a wrong poetry"
 ---
-
-# Reflets dans l'Eau
 
 Sur le lac tranquille, l'aube se lève,  
 Des couleurs douces se mêlent et dansent,  
@@ -21,6 +20,4 @@ Laissant place à la rêverie et la paix,
 Reflets dans l'eau, mirages du temps,  
 Capturant l'essence de l'instant.
 
----
 
-*Do not take this too seriously*
