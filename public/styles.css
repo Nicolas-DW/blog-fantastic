@@ -55,6 +55,12 @@ header {
   text-align: center;
 }
 
+header a {
+  color: #828485;
+  text-decoration: none;
+  font-size: 14px;
+}
+
 /* footer is on the bottom of the page */
 footer {
   position: relative;
@@ -62,7 +68,16 @@ footer {
   height: 60px;
   background-color: #1a1a1a;
   text-align: center;
+  color: #828485;
+  font-size: 14px;
+  opacity: 50%;
 }
+
+footer p, footer a, footer a img {
+  color: #828485;
+}
+
+
 
 .markdown-content {
   margin: 0 auto;
