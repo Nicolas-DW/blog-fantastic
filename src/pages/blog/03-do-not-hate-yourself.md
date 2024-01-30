@@ -2,7 +2,7 @@
 title: "Do not hate yourself"
 author: "NK"
 layout: ../../layouts/PostLayout.astro
-description : "a wrong poetry"
+description : "a poem about taking care of yourself"
 ---
 
 Hating yourself  

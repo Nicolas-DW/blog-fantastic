@@ -2,7 +2,7 @@
 title: "A leaf on the road"
 author: "NK"
 layout: ../../layouts/PostLayout.astro
-description : "a wrong poetry"
+description : "a poem about the leaf"
 ---
 
 When I was walking,  

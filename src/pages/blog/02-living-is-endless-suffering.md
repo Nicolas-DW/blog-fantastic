@@ -2,7 +2,7 @@
 title: "Why living is an endless suffering"
 author: "NK"
 layout: ../../layouts/PostLayout.astro
-description : "a wrong poetry"
+description : "a poem about being tired of living"
 ---
 
 From my birth until now,  
