@@ -1,6 +1,6 @@
-# A blog for "the weary leaf website"
+# A blog for "the fantastic series of stories"
 
-A blog of poetry
+A blog of fantastic novels
 
 <!-- insert url link -->
-[A blog for "the weary leaf website"](https://the-weary-leaf.netlify.app/)
+[A blog for "the fantastic series of stories"]()
